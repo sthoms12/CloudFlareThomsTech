@@ -1,4 +1,4 @@
-baseurl = "https:\\thomstech.com"
+baseurl = "https://thomstech.com"
 title = "Thoms Tech"
 theme = "hugo-coder-forked"
 languagecode = "en"
